@@ -63,10 +63,7 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmaddhisham&show_icons=true&theme=dark&hide_border=true"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmaddhisham&theme=github_dark&utcOffset=2"/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmaddhisham&theme=dark&hide_border=true"/>
