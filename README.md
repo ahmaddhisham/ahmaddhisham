@@ -63,8 +63,9 @@
 ---
 
 ## 📊 GitHub Analytics
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmaddhisham&theme=github_dark&utcOffset=2"/>
-
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmaddhisham&theme=dark&hide_border=true"/>
 </p>
@@ -76,10 +77,10 @@
 ---
 
 ## 📌 Featured Projects
-- 🎬 **Movie App** — React + API integration with search & filtering  
-- 🎮 **Advanced Tic Tac Toe** — Enhanced game logic & UI improvements  
-- 🧾 **Card Generator** — Dynamic greeting card generator  
-- 🍪 **Cookie-Based Auth Task** — Registration & profile redirection logic  
+- 🎬 **Movietos** — Movie app (React + TMDB API integration with search & filtering + Tailwindcss) 
+- 🎮 **Karakib** — Waste Recycling Website (Vue + PHP + Tailwindcss + Gemini 2.5 Flash Chatbot With Img recognition)  
+- 🧾 **PropertyXpert** — RealEstate Website (React + Tailwindcss)
+- 🍪 **Horus** — E-commerce Website (Under development) 
 
 ---
 
