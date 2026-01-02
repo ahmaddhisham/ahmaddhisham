@@ -20,6 +20,7 @@
 ---
 
 ## 👨‍💻 About Me
+
 - 🎓 **Information Technology Institute (ITI) Graduate**
 - 💡 Frontend-focused developer with a strong base in **JavaScript & React**
 - 🧠 Actively building **real-world projects** and preparing for **MERN roles**
@@ -28,6 +29,7 @@
 ---
 
 ## 🚀 Currently Working With
+
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
@@ -42,6 +44,7 @@
 ## 🛠 Tech Stack
 
 ### 🌐 Frontend
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
@@ -52,6 +55,7 @@
 </p>
 
 ### ⚙️ Backend & Tools
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
@@ -63,6 +67,7 @@
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmaddhisham&theme=github_dark&utcOffset=2"/>
 </p>
@@ -77,32 +82,33 @@
 ---
 
 ## 📌 Featured Projects
+
 <p align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Movie"/>
+        <img src="./movietos-logo.png" width="40" height="40" alt="Movietos"/>
         <br/>
         <strong>Movietos</strong>
         <br/>
         <sub>Movie app (React + TMDB API integration with search & filtering + Tailwindcss)</sub>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Recycling"/>
+        <img src="./logogold.png" width="40" height="40" alt="Karakib"/>
         <br/>
         <strong>Karakib</strong>
         <br/>
         <sub>Waste Recycling Website (Vue + PHP + Tailwindcss + Gemini AI Chatbot)</sub>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Real Estate"/>
+        <img src="./logo_horizontal.png" width="40" height="40" alt="PropertyXpert"/>
         <br/>
         <strong>PropertyXpert</strong>
         <br/>
         <sub>RealEstate Website (React + Tailwindcss)</sub>
       </td>
       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="E-commerce"/>
+        <img src="./eye-of-horus.png" width="40" height="40" alt="Horus"/>
         <br/>
         <strong>Horus</strong>
         <br/>
@@ -115,6 +121,7 @@
 ---
 
 ## 📫 Get in Touch
+
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" style="vertical-align: middle; margin-right: 5px;"/> **LinkedIn:** https://www.linkedin.com/in/ahmad-hisham-a942a6221/
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16" height="16" style="vertical-align: middle; margin-right: 5px;"/> **Email:** ahmadhisham5555@gmail.com
 
