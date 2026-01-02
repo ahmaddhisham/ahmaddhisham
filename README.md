@@ -77,16 +77,46 @@
 ---
 
 ## 📌 Featured Projects
-- 🎬 **Movietos** — Movie app (React + TMDB API integration with search & filtering + Tailwindcss) 
-- 🎮 **Karakib** — Waste Recycling Website (Vue + PHP + Tailwindcss + Gemini 2.5 Flash Chatbot With Img recognition)  
-- 🧾 **PropertyXpert** — RealEstate Website (React + Tailwindcss)
-- 🍪 **Horus** — E-commerce Website (Under development) 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Movie"/>
+        <br/>
+        <strong>Movietos</strong>
+        <br/>
+        <sub>Movie app (React + TMDB API integration with search & filtering + Tailwindcss)</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Recycling"/>
+        <br/>
+        <strong>Karakib</strong>
+        <br/>
+        <sub>Waste Recycling Website (Vue + PHP + Tailwindcss + Gemini AI Chatbot)</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Real Estate"/>
+        <br/>
+        <strong>PropertyXpert</strong>
+        <br/>
+        <sub>RealEstate Website (React + Tailwindcss)</sub>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="E-commerce"/>
+        <br/>
+        <strong>Horus</strong>
+        <br/>
+        <sub>E-commerce Website (Under development)</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
 ## 📫 Get in Touch
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ahmad-hisham-a942a6221/
-- 📧 **Email:** ahmadhisham5555@gmail.com
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" height="16" style="vertical-align: middle; margin-right: 5px;"/> **LinkedIn:** https://www.linkedin.com/in/ahmad-hisham-a942a6221/
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16" height="16" style="vertical-align: middle; margin-right: 5px;"/> **Email:** ahmadhisham5555@gmail.com
 
 ---
 
