@@ -94,14 +94,14 @@
         <sub>Movie app (React + TMDB API integration with search & filtering + Tailwindcss)</sub>
       </td>
       <td align="center">
-        <img src="./logogold.png" width="40" height="40" alt="Karakib"/>
+        <img src="./k.png" width="40" height="40" alt="Karakib"/>
         <br/>
         <strong>Karakib</strong>
         <br/>
         <sub>Waste Recycling Website (Vue + PHP + Tailwindcss + Gemini AI Chatbot)</sub>
       </td>
       <td align="center">
-        <img src="./logo_horizontal.png" width="40" height="40" alt="PropertyXpert"/>
+        <img src="./logogold.png" width="60" height="40" alt="PropertyXpert"/>
         <br/>
         <strong>PropertyXpert</strong>
         <br/>
