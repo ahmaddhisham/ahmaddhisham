@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ahmad Hisham</h1>
-<h3 align="center">Frontend Developer • UI/UX Designer • Modern Web Apps</h3>
+<h1 align="center">Ahmad Hisham</h1>
+<h3 align="center">Frontend Developer • UI/UX Designer • Modern Web Interfaces</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmaddhisham&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
@@ -8,69 +12,83 @@
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 ITI Graduate focused on **Frontend & Full-Stack Development**
-- 💻 Strong foundation in **JavaScript, React, HTML, CSS**
-- 🧠 Currently preparing for **real-world MERN stack roles**
-- 📈 Interested in **clean UI, performance, and scalable code**
+## 👨‍💻 About Me
+- 🎓 **Information Technology Institute (ITI) Graduate**
+- 💡 Frontend-focused developer with a strong base in **JavaScript & React**
+- 🧠 Actively building **real-world projects** and preparing for **MERN roles**
+- 🎯 Passionate about **clean UI, maintainable code, and performance**
+
+---
+
+## 🚀 Currently Working With
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20Integration-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/Component%20Architecture-0A66C2?style=flat"/>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+### 🌐 Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/>
 </p>
 
-### Backend & Tools
+### ⚙️ Backend & Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmaddhishamE&show_icons=true&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmaddhisham&show_icons=true&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ahmaddhisham&theme=dark&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmaddhisham&theme=react-dark&hide_border=true"/>
+</p>
+
 ---
 
 ## 📌 Featured Projects
-- 🎬 **Movie App** – React app with API integration & search
-- 🎮 **Tic Tac Toe** – Enhanced game logic & UI
-- 🧾 **Karakib** – Waste Recycling Management App
-- 🍪 **Horus** – E-commerce App
-
-> More projects available in my repositories.
+- 🎬 **Movie App** — React + API integration with search & filtering  
+- 🎮 **Advanced Tic Tac Toe** — Enhanced game logic & UI improvements  
+- 🧾 **Card Generator** — Dynamic greeting card generator  
+- 🍪 **Cookie-Based Auth Task** — Registration & profile redirection logic  
 
 ---
 
-## 📫 Contact Me
-- 💼 LinkedIn: www.linkedin.com/in/ahmad-hisham-a942a6221
-
-- 📧 Email: ahmadhisham5555@gmail.com
+## 📫 Get in Touch
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ahmad-hisham-a942a6221/
+- 📧 **Email:** ahmadhisham5555@gmail.com
 
 ---
 
 <p align="center">
-  <em>“Consistency beats motivation.”</em>
+  <em>Building interfaces that are simple, scalable, and user-focused.</em>
 </p>
