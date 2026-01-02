@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Hisham</h1>
-<h3 align="center">Frontend Developer • React • Modern Web Apps</h3>
+<h3 align="center">Frontend Developer • UI/UX Designer • Modern Web Apps</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 IT Graduate focused on **Frontend & Full-Stack Development**
+- 🎓 ITI Graduate focused on **Frontend & Full-Stack Development**
 - 💻 Strong foundation in **JavaScript, React, HTML, CSS**
 - 🧠 Currently preparing for **real-world MERN stack roles**
 - 📈 Interested in **clean UI, performance, and scalable code**
@@ -45,11 +45,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmaddhishamE&show_icons=true&theme=dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=ahmaddhisham&theme=dark&hide_border=true"/>
 </p>
 
 ---
