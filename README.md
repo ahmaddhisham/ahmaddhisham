@@ -52,6 +52,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwind-original.svg" width="42"/>
+
+  
 </p>
 
 ### ⚙️ Backend & Tools
@@ -67,13 +70,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmaddhisham&theme=github_dark&utcOffset=2"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmaddhisham&theme=dark&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmaddhisham&theme=react-dark&hide_border=true"/>
