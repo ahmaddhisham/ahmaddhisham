@@ -1,3 +1,5 @@
+<div style="background-color: bisque; padding: 20px; border-radius: 10px;">
+
 <h1 align="center">Ahmad Hisham</h1>
 <h3 align="center">Frontend Developer • UI/UX Designer • Modern Web Interfaces</h3>
 
@@ -126,3 +128,4 @@
 <p align="center">
   <em>Building interfaces that are simple, scalable, and user-focused.</em>
 </p>
+</div>
